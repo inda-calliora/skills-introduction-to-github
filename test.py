@@ -1,3 +1,3 @@
 print('Hi')
 
-print('Hallo zurück!')
+print('Hallo zurueck!')
